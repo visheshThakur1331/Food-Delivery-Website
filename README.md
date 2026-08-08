@@ -65,3 +65,19 @@ Food-Delivery-Website
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm
+- MongoDB
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/visheshThakur1331/Food-Delivery-Website.git

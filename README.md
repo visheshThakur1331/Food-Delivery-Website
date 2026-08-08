@@ -81,3 +81,58 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/visheshThakur1331/Food-Delivery-Website.git
+```
+
+2. Open the project folder:
+
+```bash
+cd Food-Delivery-Website
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+5. Open the local development URL shown in the terminal.
+
+## 💳 Payment Integration
+
+The application uses Stripe for online payment processing.
+
+For security, API keys and other sensitive credentials should be stored in environment variables and should not be committed to GitHub.
+
+## 🎯 Project Highlights
+
+- Full-stack food ordering workflow
+- User-friendly React interface
+- Shopping cart functionality
+- Online payment integration
+- Admin management functionality
+- MongoDB-based data management
+
+## 📈 Future Improvements
+
+- Real-time order tracking
+- User reviews and ratings
+- Food recommendation system
+- Delivery partner module
+- Order notifications
+- Advanced admin analytics
+
+## 👨‍💻 Author
+
+**Vishesh Thakur**
+
+MCA Student | Java Developer | Full Stack Developer
+
+## ⭐ Project
+
+If you find this project useful, consider giving the repository a ⭐.

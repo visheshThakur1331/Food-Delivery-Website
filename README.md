@@ -22,6 +22,7 @@ Users can browse food items, add items to their cart, manage their orders and se
 ## 🛠️ Technologies Used
 
 ### Frontend
+
 - React.js
 - JavaScript
 - HTML
@@ -29,16 +30,20 @@ Users can browse food items, add items to their cart, manage their orders and se
 - Vite
 
 ### Backend
+
 - Node.js
 - Express.js
 
 ### Database
+
 - MongoDB
 
 ### Payment
+
 - Stripe
 
 ### Tools
+
 - Git
 - GitHub
 - VS Code
@@ -60,20 +65,3 @@ Food-Delivery-Website
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- Node.js
-- npm
-- MongoDB
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/visheshThakur1331/Food-Delivery-Website.git
